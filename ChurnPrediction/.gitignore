@@ -12,7 +12,8 @@ data/processed/*.npy
 models/*.pkl
 
 logs/
-outputs/
+outputs/*
+!outputs/validate_outputs.py
 
 .vscode/
 
